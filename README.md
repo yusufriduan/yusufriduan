@@ -10,8 +10,10 @@
   </div>
 </div>
 
-<div style = "display: flex; align-items: center; justify-content: center;">
-  <a href="https://www.instagram.com/ysfrdn_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yusuf's gram" height="30" width="40" /></a>
-  <a href="https://www.tiktok.com/@shlx.___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="yusuf's editing tiktok" height="30" width="40" /></a>
-  <a href = "mailto: yusufriduan@outlook.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
-</div>
+<center>
+  <div>
+    <a href="https://www.instagram.com/ysfrdn_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yusuf's gram" height="30" width="40" /></a>
+    <a href="https://www.tiktok.com/@shlx.___" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="yusuf's editing tiktok" height="30" width="40" /></a>
+    <a href = "mailto: yusufriduan@outlook.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
+  </div>
+</center>
